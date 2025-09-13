@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasd2
-- 🌱 I’m currently learning C# and coding callouts for LSPDFR, GTA 5 
-- 📫 How to reach me: DM or contact me
+- 🌱 Developing with C# and coding callouts for LSPDFR, GTA 5 
+- 📫 How to reach me: https://discord.gg/utNranQJSr
 - ⚡ Fun fact: using gta for 7 years now, staff member on lcpdfr.com
 
 <!---
